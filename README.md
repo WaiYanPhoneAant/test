@@ -1,2 +1,0 @@
-# erppos
-ERP POS system
